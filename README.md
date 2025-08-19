@@ -14,6 +14,8 @@ Analizar las reseñas de clientes de sucursales de McDonald's en EE. UU. con el 
 - ¿Se observan tendencias geográficas en la satisfacción de los clientes?  
 
 ---
+## Resumen del proyecto en un articulo
+![Ejemplo de gráfico3](/reports/cartel.png)
 
 ## 🧹 2. Carga y Limpieza de Datos  
 
