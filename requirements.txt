@@ -1,0 +1,28 @@
+# Core
+pandas
+numpy
+
+# Visualización
+matplotlib
+seaborn
+wordcloud
+folium
+plotly
+
+# NLP
+nltk
+scikit-learn
+textblob
+
+# ML / Modelado
+scipy
+joblib
+
+# Dashboard / Deploy
+streamlit
+dash
+plotly-express
+
+# Utils
+jupyter
+notebook
