@@ -113,13 +113,3 @@ Para hacer el análisis accesible a **stakeholders** se diseñó un dashboard in
 - Reforzar prácticas de **servicio rápido y amabilidad** en las sucursales mejor valoradas.  
 
 ---
-
-## 💾 9. Entrega / Publicación  
-
-- Repositorio en **GitHub** con notebooks organizados.  
-- Dataset limpio y versiones procesadas en `/data/`.  
-- Reporte en PDF/Notion con visualizaciones clave.  
-- Publicación de un **post en LinkedIn** mostrando hallazgos.  
-- (Opcional) Video corto en TikTok/Instagram con resumen visual del análisis.  
-
----
